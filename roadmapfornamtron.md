@@ -1,3 +1,4 @@
+Đây là roadmap để cho nam tròn học và làm được những thứ mình muốn với nghành công nghệ thông tin
 # 🗺️ Roadmap Full-stack: Java Spring Boot + React/Next.js
 
 > **Mục tiêu cuối cùng:** Tự xây dựng hoàn chỉnh, từ con số 0 đến lúc chạy thật trên Internet, một website thương mại như:
